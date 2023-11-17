@@ -1,0 +1,28 @@
+.conatiner{
+    width: 1,440px;
+height: 260px;
+top: 2182px;
+padding: 24px, 0px, 24px, 0px;
+gap: 8px;
+margin-left: 2px;
+}
+.text {
+    width: 860px;
+    height: 36px;
+    padding: 0px, 8px, 12px, 8px;
+    gap: 8px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 24%;
+  }
+  h3 {
+    font-weight: 600;
+  }
+  .red {
+    width: 76px;
+    height: 3px;
+    background: #f01c21;
+    text-align: center;
+    margin-left: 45%;
+    
+  }

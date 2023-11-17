@@ -1,0 +1,218 @@
+.container {
+  width: 1, 440px;
+  height: 705px;
+  top: 623px;
+  padding: 40px, 0px, 40px, 0px;
+  gap: 40px;
+  
+}
+.div1 {
+  display: flex;
+  margin-top: 25px;
+  margin-left: 38%;
+  width: 400px;
+  height: 36px;
+  
+}
+.div11 {
+  top: 0;
+  width: 120px;
+  height: 12px;
+  font-family: Metropolis;
+  font-size: 10px;
+  font-weight: 300;
+
+  letter-spacing: 0em;
+  text-align: left;
+
+  padding: 15px 15px 15px 15px;
+
+  background: #f7f4f4;
+  border-radius: 8px;
+}
+.coupons {
+  color: #f01c21;
+  margin-top: 2px;
+}
+.icon1 {
+  width: 14px;
+  height: 13px;
+  color: gray;
+  margin-right: 4px;
+}
+.icon2 {
+    width: 14px;
+    height: 13px;
+    color: gray;
+    margin-right: 4px;
+  }
+.div12 {
+  width: 120px;
+  height: 12px;
+  font-family: Metropolis;
+  font-size: 12px;
+  font-weight: 500;
+
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 11px;
+}
+
+.icon3 {
+    width: 14px;
+    height: 13px;
+    color: gray;
+    margin-right: 4px;
+  }
+.div13 {
+  width: 120px;
+  height: 12px;
+  font-family: Metropolis;
+  font-size: 12px;
+  font-weight: 500;
+
+  letter-spacing: 0em;
+  text-align: right;
+  padding: 12px;
+}
+.products {
+  width: 860px;
+  height: 501px;
+  gap: 25px;
+
+  margin-top: 25px;
+  margin-left: 24%;
+}
+.product1 {
+    display: flex;
+  width: 860px;
+  height: 238px;
+  gap: 20px;
+  
+}
+.product11 {
+  width: 200px;
+  height: 238px;
+  padding: 16px, 23px, 15px, 22px;
+  border-radius: 10px;
+  border: 1px;
+  background: linear-gradient(0deg, #faf7f7, #f7f6f6),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  border: 1px solid #ececec;
+}
+.textmain {
+  width: 155px;
+  height: 132px;
+  margin-top: 16px;
+  text-align: center;
+  margin-left: 20px;
+  gap: 20px;
+  
+}
+.textu {
+  width: 129px;
+  height: 40px;
+  font-family: Metropolis;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: centre;
+
+  color: #3ba615;
+}
+.amazon {
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 6px;
+  margin-left: 18px;
+  width: 80px;
+  height: 32px;
+}
+.texta {
+  font-family: Metropolis;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #a7a7a7;
+}
+.btn1 {
+  margin-top: 28px;
+  width: 148px;
+  height: 36px;
+  background-color: #f01c21;
+  border: 1px solid red;
+  padding: 5px 16px 12px 16px;
+  font-weight: 500;
+  font-size: 14px;
+}
+.product12 {
+    width: 200px;
+    height: 238px;
+    padding: 16px, 23px, 15px, 22px;
+    border-radius: 10px;
+    border: 1px;
+    background: linear-gradient(0deg, #faf7f7, #f7f6f6),
+      linear-gradient(0deg, #ffffff, #ffffff);
+    border: 1px solid #ececec;
+  }
+  .product13 {
+    width: 200px;
+    height: 238px;
+    padding: 16px, 23px, 15px, 22px;
+    border-radius: 10px;
+    border: 1px;
+    background: linear-gradient(0deg, #faf7f7, #f7f6f6),
+      linear-gradient(0deg, #ffffff, #ffffff);
+    border: 1px solid #ececec;
+  }
+  .product14{
+    width: 200px;
+    height: 238px;
+    padding: 16px, 23px, 15px, 22px;
+    border-radius: 10px;
+    border: 1px;
+    background: linear-gradient(0deg, #faf7f7, #f7f6f6),
+      linear-gradient(0deg, #ffffff, #ffffff);
+    border: 1px solid #ececec;
+  }
+  .product2{
+    display: flex;
+    width: 860px;
+    margin-top: 25px;
+    height: 238px;
+    gap: 20px;
+    
+  }
+  .wrapper{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    }
+    .first{
+        width: 48px;
+        height: 8px;
+        border-radius: 4px;
+        background: #091431;
+    
+         
+    }
+    .second{
+        width: 20px;
+    height: 8px;
+    border-radius: 4px;
+    background: #D9D9D9;
+    margin-left: 2px;
+    
+    
+    }
+    .third{
+        width: 20px;
+    height: 8px;
+    border-radius: 4px;
+    background: #D9D9D9;
+    margin-left: 2px;
+    
+    }

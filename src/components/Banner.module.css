@@ -1,0 +1,46 @@
+
+.Container{
+  margin-top: 45px;
+    width: 1,440px;
+    height: 497.22px;
+    top: 126px;
+    padding: 40px, 0px, 16px, 0px;
+    gap: 12px;
+}
+.banner{
+    width: 860px;
+    height: 413.22px;
+    border-radius: 32px;
+    margin-left: 24%;
+
+}
+.wrapper{
+display: flex;
+margin-top: 40px;
+justify-content: center;
+}
+.first{
+    width: 48px;
+    height: 8px;
+    border-radius: 4px;
+    background: #091431;
+
+     
+}
+.second{
+    width: 20px;
+height: 8px;
+border-radius: 4px;
+background: #D9D9D9;
+margin-left: 2px;
+
+
+}
+.third{
+    width: 20px;
+height: 8px;
+border-radius: 4px;
+background: #D9D9D9;
+margin-left: 2px;
+
+}
